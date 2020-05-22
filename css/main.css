@@ -73,3 +73,11 @@ h1 {
   font-size: 32px;
   padding: 50px 100px;
 }
+.footer {
+  margin-top: 30px;
+  background-color: #a9cf1c;
+  color: rgb(219, 16, 16);
+  text-align: center;
+  font-size: 32px;
+  padding: 50px 100px;
+}
